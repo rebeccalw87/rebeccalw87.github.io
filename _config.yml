@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "L. Clifton Johnson, Astronomer"
+title                    : "Rebecca Wisenbaker, Astronomer"
 title_separator          : "-"
-name                     : &name "L. Clifton Johnson"
-description              : &description "Research Assistant Professor and Zooniverse Director"
-url                      : https://rebeccalw87.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Rebecca Wisenbaker"
+description              : &description "Research Assistant at The University of Texas at Austin"
+url                      : https://rebeccalw87.github.io/REUWebsite # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rebeccalw87/rebeccalw87.github.io"
 
