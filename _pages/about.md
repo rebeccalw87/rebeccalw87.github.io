@@ -12,11 +12,13 @@ redirect_from:
 
 ---------
 
-My name is Cliff Johnson and I am a Research Assistant Professor at [Northwestern University](https://www.northwestern.edu/) in [CIERA](https://ciera.northwestern.edu/) and the [Dept. of Physics and Astronomy](https://physics.northwestern.edu/), and the Co-Director & Science Lead of the [Zooniverse](https://www.zooniverse.org/) at the [Adler Planetarium](https://www.adlerplanetarium.org/).
+My name is Rebecca Wisenbaker and I am an undergraduate Research Assistant at [The University of Texas at Austin](https://www.utexas.edu/), where I'm double-majoring in astronomy and physics as a part of the [College of Natural Sciences](https://cns.utexas.edu/). I am a rising senior with plans to apply to graduate school in Fall 2026. 
 
-My current research focuses on understanding star formation behavior at spatial scales ranging from that of galaxies down to individual star-forming complexes through the combined study of stellar populations and the interstellar medium. Specifically, I study the formation and evolution of star cluster populations and young pre-main sequence star populations in the Local Group, focusing on how star and cluster formation processes depend on galactic environment. Citizen science and crowdsourcing are important tools in my research.
+In my transients research group at the University of Texas at Austin, I am leading a project to determine the redshift range at which the Roman Space Telescope will be able to detect superluminous supernovae given its instrumental limitations. In preparation for this, I have been working with Dr. Sebastian Gomez to analyze his catalog of superluminous supernovae using Python. 
+Since supernovae are key probes of star formation and early galaxy evolution, deviations between the predicted and detectable populations will help determine whether the star formation rate at these epochs was higher or lower than expected. In turn, this will help to improve our current models of star formation. 
 
-Publications List: [via ADS](https://ui.adsabs.harvard.edu/#search/q=orcid%3A0000-0001-6421-0953&sort=date%20desc%2C%20bibcode%20desc)
+My research at [Northwestern University](https://Northwestern.edu) as a part of the [CIERA](https://ciera.northwestern.edu) Research Experience for Undergraduates (REU) program focuses on constraining the properties of circumstellar dust around Red Supergiant (RSG) supernova progenitor candidates using images from the James Webb Space Telescope (JWST). I am working with Dr. Charlie Kilpatrick and Aswin Suresh to extend their work on identifying and classifying RSGs using NIRCam. As an extension of this work, I am utilizing images from MIRI (Mid-Infrared Instrument) and NIRCam (Near-Infrared Camera) onboard JWST to examine dust emissions around RSGs at a wide range of wavelengths using Python and by modifying existing pipelines. 
+By placing observational constraints on RSG circumstellar dust composition, we can refine our understanding of late-stage massive stellar evolution and the environments surrounding Type II supernova progenitors. 
 
 Example -- adding an image hosted locally:
 
