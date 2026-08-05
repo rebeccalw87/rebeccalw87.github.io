@@ -32,5 +32,5 @@ Ultimately, I hope to pursue a career in observational astronomy focused on time
 
 ---------
 
-![CIERA REU Logo]({{ base_path }}/images/logo_cierareu.png){:width="200"}
+![CIERA REU Logo]({{ base_path }}/images/logo_cierareu.png){:width="200"} ![Texas Science Logo]({{ base_path }}/images/UT_Logo.png){:width="200"} 
 
