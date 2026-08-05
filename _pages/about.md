@@ -16,7 +16,7 @@ My name is Rebecca Wisenbaker and I am an undergraduate Research Assistant at [T
 
 ---------
 
-In my transients research group at UT Austin, I am leading a project to determine the redshift range at which the Roman Space Telescope will be able to detect superluminous supernovae (SLSNe) given its instrumental limitations. To support this work, I have been working with Dr. Sebastian Gomez to analyze his catalog of superluminous supernovae using Python. 
+In my transients research group at UT Austin, I am leading a project to determine the redshift range at which the Roman Space Telescope will be able to detect superluminous supernovae (SLSNe) given its instrumental limitations. To support this research, I have been working with Dr. Sebastian Gomez to analyze his catalog of superluminous supernovae using Python and connecting this to Roman's capabilities. 
 
 Since supernovae are key probes of star formation and early galaxy evolution, deviations between the predicted and detectable populations will help determine whether the star formation rate at these epochs is higher or lower than expected. In turn, this will help to improve our current models of star formation. 
 
