@@ -22,7 +22,7 @@ Since supernovae are key probes of star formation and early galaxy evolution, de
 
 ---------
 
-My research at [Northwestern University](https://Northwestern.edu) as a part of the [CIERA](https://ciera.northwestern.edu) [Research Experience for Undergraduates (REU) program](https://sites.northwestern.edu/cierareu/) focuses on constraining the properties of circumstellar dust around Red Supergiant (RSG) supernova progenitor candidates using observations from the James Webb Space Telescope (JWST). I am working with Dr. Charlie Kilpatrick and Aswin Suresh to extend their work on identifying and classifying RSGs using NIRCam. 
+My research at [Northwestern University](https://Northwestern.edu) as a part of the [CIERA](https://ciera.northwestern.edu) [Research Experience for Undergraduates (REU) program](https://sites.northwestern.edu/cierareu/) focuses on constraining the properties of circumstellar dust around Red Supergiant (RSG) supernova progenitor candidates using observations from the James Webb Space Telescope (JWST). I am working with Dr. Charlie Kilpatrick and Aswin Suresh to extend their research on identifying and classifying RSGs using NIRCam. 
 
 As an extension of this work, I am utilizing images from MIRI (Mid-Infrared Instrument) and NIRCam (Near-Infrared Camera) to examine dust emissions around RSGs in M51 and M82 in a broad wavelength range by using Python and modifying existing pipelines. 
 
