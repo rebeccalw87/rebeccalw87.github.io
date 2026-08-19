@@ -15,4 +15,5 @@ My REU summer research project through CIERA (Northwestern University, 2026) was
 TBD
 
 ## Presentations & Publication
+[CIERA REU Research Poster](https://rebeccalw87.github.io/files/REU_Poster_Final.pdf)
 
