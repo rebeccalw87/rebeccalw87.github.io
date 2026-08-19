@@ -1,5 +1,5 @@
 ---
 permalink: /CV_resume/
-title: "Credentials"
+title: "CV"
 author_profile: true
 ---
