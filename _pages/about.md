@@ -12,7 +12,7 @@ redirect_from:
 
 ---------
 
-My name is Rebecca Wisenbaker and I am an undergraduate Research Assistant at [The University of Texas at Austin](https://www.utexas.edu/), where I'm double-majoring in astronomy and physics as part of the [College of Natural Sciences](https://cns.utexas.edu/). I am broadly interested in supernovae, stellar evolution, and galaxy evolution through observational and instrumental astronomy. 
+Hi! My name is Rebecca Wisenbaker and I am an undergraduate Research Assistant at [The University of Texas at Austin](https://www.utexas.edu/), where I am pursuing a double major in astronomy and physics through the [College of Natural Sciences](https://cns.utexas.edu/). My primary research interests are in observational astronomy, particularly time-domain astronomy, massive star evolution, and galaxy evolution, but I'd explore it all if I could.
 
 ---------
 
