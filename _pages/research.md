@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}
 
 
+
+
+
+
 ## Circumstellar Dust Around Extragalactic Red Supergiants with JWST
 
 My 2026 summer research project through the [CIERA](https://ciera.northwestern.edu) [Research Experience for Undergraduates (REU) program](https://sites.northwestern.edu/cierareu/) at [Northwestern University](https://Northwestern.edu) focused on analyzing and constraining circumstellar dust properties around red supergiant (RSG) supernova progenitor candidates in M51 and M82. Working with Dr. Charlie Kilpatrick and Aswin Suresh, I used observations from the James Webb Space Telescope (JWST) to investigate the fraction of RSGs better explained by graphite-dominated versus silicate-dominated circumstellar dust models.
