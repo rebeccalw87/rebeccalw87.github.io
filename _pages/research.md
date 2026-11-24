@@ -7,6 +7,8 @@ author_profile: true
 {% include toc %}
 {% include base_path %}
 
+---------
+
 ## Dust Around Red Supergiants
 
 My 2026 summer research project through the [CIERA](https://ciera.northwestern.edu) [Research Experience for Undergraduates (REU) program](https://sites.northwestern.edu/cierareu/) at [Northwestern University](https://Northwestern.edu) focused on analyzing and constraining circumstellar dust properties around red supergiant (RSG) supernova progenitor candidates in M51 and M82. Working with Dr. Charlie Kilpatrick and Aswin Suresh, I used observations from the James Webb Space Telescope (JWST) to investigate the fraction of RSGs better explained by graphite-dominated versus silicate-dominated circumstellar dust models.
@@ -21,7 +23,7 @@ The difference between the silicate and graphite fractions in M51 and M82 is app
 
 By placing observational constraints on RSG circumstellar dust composition, we can refine our understanding of late-stage massive stellar evolution and the physical properties of Type II supernova progenitors. 
 
-[CIERA REU Research Poster](https://rebeccalw87.github.io/files/REU_Poster_Final.pdf)
+## [CIERA REU Research Poster](https://rebeccalw87.github.io/files/REU_Poster_Final.pdf)
 
 ---------
 
