@@ -7,12 +7,7 @@ author_profile: true
 {% include toc %}
 {% include base_path %}
 
-
-
-
-
-
-## Circumstellar Dust Around Extragalactic Red Supergiants with JWST
+## Dust Around Red Supergiants
 
 My 2026 summer research project through the [CIERA](https://ciera.northwestern.edu) [Research Experience for Undergraduates (REU) program](https://sites.northwestern.edu/cierareu/) at [Northwestern University](https://Northwestern.edu) focused on analyzing and constraining circumstellar dust properties around red supergiant (RSG) supernova progenitor candidates in M51 and M82. Working with Dr. Charlie Kilpatrick and Aswin Suresh, I used observations from the James Webb Space Telescope (JWST) to investigate the fraction of RSGs better explained by graphite-dominated versus silicate-dominated circumstellar dust models.
 
@@ -30,7 +25,7 @@ By placing observational constraints on RSG circumstellar dust composition, we c
 
 ---------
 
-## Superluminous Supernovae and Roman Space Telescope Detectability
+## Superluminous Supernovae 
 
 In my [transients research group](https://sites.utexas.edu/uttex/) at the University of Texas at Austin, I work with Dr. Sebastian Gomez to determine the redshift range at which the Nancy Grace Roman Space Telescope will be able to observe superluminous supernovae (SLSNe) given its instrumental limitations. Using Python, I analyze low-redshift superluminous supernova (SLSN) light curves from Dr. Gomez's catalog and extend this analysis to higher redshifts to model their detectability using Roman's filter effective area curves.
 
