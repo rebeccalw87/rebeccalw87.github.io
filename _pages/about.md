@@ -16,19 +16,9 @@ Hi! My name is Rebecca Wisenbaker and I am an undergraduate Research Assistant a
 
 ---------
 
-In my [transients research group](https://sites.utexas.edu/uttex/) at UT Austin, I am leading a project to determine the redshift range at which the Roman Space Telescope will be able to detect superluminous supernovae (SLSNe) given its instrumental limitations. To achieve this, I work with Dr. Sebastian Gomez on analyzing his catalog of superluminous supernovae using Python and connecting these results to Roman's observational capabilities. 
+My research experience spans several areas of astronomy, including analyzing superluminous supernovae and their detectability with the Nancy Grace Roman Space Telescope, investigating circumstellar dust around red supergiants using James Webb Space Telescope observations, and studying stellar kinematics in nearby galaxies to investigate central black holes. There are a handful of other projects I've been involved in, but those have been less intensive. Through these projects, I have developed experience in Python-based data analysis, astronomical imaging and spectroscopy, and observational techniques.
 
-Since supernovae are key probes of star formation and early galaxy evolution, deviations between the predicted and detectable populations will help determine whether the star formation rate at these epochs is higher or lower than expected. This will help to improve our current models of star formation. 
-
----------
-
-My research at [Northwestern University](https://Northwestern.edu) as a part of the [CIERA](https://ciera.northwestern.edu) [Research Experience for Undergraduates (REU) program](https://sites.northwestern.edu/cierareu/) focuses on constraining the properties of circumstellar dust around Red Supergiant (RSG) supernova progenitor candidates using observations from the James Webb Space Telescope (JWST). I am working with Dr. Charlie Kilpatrick and Aswin Suresh to extend their research on identifying and classifying RSGs using NIRCam. 
-
-As an extension of this work, I am utilizing images from MIRI (Mid-Infrared Instrument) and NIRCam (Near-Infrared Camera) to examine dust emissions around RSGs in M51 and M82 in a broad wavelength range by using Python and modifying existing pipelines. 
-
-By placing observational constraints on RSG circumstellar dust composition, we can refine our understanding of late-stage massive stellar evolution and the physical properties of Type II supernova progenitors. 
-
-Ultimately, I hope to pursue a career in observational astronomy and continue my work in time-domain and stellar evolution.
+I have also had the privilege of independently operating the 2.1-meter and 2.7-meter telescopes at McDonald Observatory, collecting spectroscopic data for a range of astronomical targets. I hope to continue pursuing observational research, particularly in time-domain astronomy and stellar evolution, while expanding my interests in galaxy evolution and the physical processes that shape galaxies.
 
 ---------
 
